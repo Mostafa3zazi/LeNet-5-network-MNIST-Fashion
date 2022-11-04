@@ -1,5 +1,5 @@
-# LeNet-5-network-MNIST-digits
-Implementing a LeNet-5 network to recognize the FashionMNIST digits.
+# LeNet-5-network-MNIST-Fashion
+Implementing a LeNet-5 network to recognize the Fashion-MNIST.
 * Modify hyperparameters to get to the best performance.
   * activation function
   * weight initialization
